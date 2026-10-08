@@ -1,0 +1,11 @@
+{
+  "payload": {
+    "version": 1,
+    "license_id": "TEST-LAPTOP-02",
+    "status": "active",
+    "signed_at": "2026-10-08T11:27:53Z",
+    "valid_until": "2026-10-15T11:27:53Z",
+    "sequence": 1791458873
+  },
+  "signature": "Z41S6h1SCRI2OOgalHeb04wvQZGJjBSHSol4fokRgcSBG1GMrXsUzHL548UFRAvqbivQ5it/n6eP6jmPgLFPCA=="
+}

@@ -1,0 +1,11 @@
+{
+  "payload": {
+    "version": 1,
+    "license_id": "LIC-TEST-WRONG",
+    "status": "active",
+    "signed_at": "2026-10-08T11:27:53Z",
+    "valid_until": "2026-10-15T11:27:53Z",
+    "sequence": 1791458873
+  },
+  "signature": "qf0h1D+Qo8ZTdIHNaalm5P+pSAYfBzOUgr+XjnQMb89KTiaCH+YNdeAUt3O3ZYaoArBodK0vzL+8+e6SMUPoBg=="
+}
